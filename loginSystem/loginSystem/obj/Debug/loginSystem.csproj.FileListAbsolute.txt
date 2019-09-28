@@ -1,0 +1,12 @@
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\bin\Debug\loginSystem.exe.config
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\bin\Debug\loginSystem.exe
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\bin\Debug\loginSystem.pdb
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.csprojAssemblyReference.cache
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.Form1.resources
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.Properties.Resources.resources
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.signup.resources
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.csproj.GenerateResource.cache
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.exe
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.pdb
+C:\Users\99455\Desktop\C#-a aid dersler\loginSystem\loginSystem\obj\Debug\loginSystem.realtodolist.resources
